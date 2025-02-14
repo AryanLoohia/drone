@@ -1,0 +1,10 @@
+New Image Detected...
+
+Detected 2 objects in the image.
+
+1. Hazard Analysis: The crane operator is instructed to exercise extreme caution and alter its path to maintain a safe distance from the detected 'High Hazard' movable object, categorized as a 'Vehicle', in the left direction.
+
+2. Hazard Analysis: The crane operator is instructed to exercise extreme caution and slow down operations until the High Hazard object, a movable overhead crane counterweight, has been safely removed from the center direction.
+
+(Label: Overhead Crane Counterweight, Hazardous Category: High, Movable: Yes)
+
