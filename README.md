@@ -14,10 +14,11 @@ This project uses the YOLO object detection model to detect objects in an image 
 1. Clone the repository:
     
     git clone https://github.com/AryanLoohia/drone.git
+   
     cd <repository_directory>
     
 
-2. Install the required Python packages:
+3. Install the required Python packages:
     
     pip install opencv-python numpy groq
     
