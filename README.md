@@ -22,7 +22,8 @@ This project uses the YOLO object detection model to detect objects in an image 
     
     pip install opencv-python numpy groq
     
-
+    Download the YOLO V3 weights file from this [Link](https://pjreddie.com/media/files/yolov3.weights).
+   
 ## Usage
 
 To run the object detection and hazard analysis script, use the following command:
