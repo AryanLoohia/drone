@@ -30,4 +30,4 @@ To run the object detection and hazard analysis script, use the following comman
 
 python obj_DETECTION.py -i <path_to_input_image> -c <path_to_yolo_config_file> -w <path_to_yolo_weights_file> -cl <path_to_classes_file>
 
-python obj_DETECTION.py -i img1.jpg -c yolov3.cfg -w yolov3.weights -cl yolov3.txt
+python obj_DETECTION.py -i img1.jpeg -c yolov3.cfg -w yolov3.weights -cl yolov3.txt
