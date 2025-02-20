@@ -13,7 +13,7 @@ This project uses the YOLO object detection model to detect objects in an image 
 
 1. Clone the repository:
     
-    git clone <repository_url>
+    git clone https://github.com/AryanLoohia/drone.git
     cd <repository_directory>
     
 
