@@ -1,4 +1,3 @@
-# drone
 # Object Detection and Hazard Analysis
 
 This project uses the YOLO object detection model to detect objects in an image and analyze the hazard level of each object. The script utilizes the Groq AI API to generate hazard analysis for each detected object. The detected objects are displayed with bounding boxes, and the hazard analysis is printed and saved to a text file.
@@ -26,7 +25,6 @@ This project uses the YOLO object detection model to detect objects in an image 
 ## Usage
 
 To run the object detection and hazard analysis script, use the following command:
-
 
 python obj_DETECTION.py -i <path_to_input_image> -c <path_to_yolo_config_file> -w <path_to_yolo_weights_file> -cl <path_to_classes_file>
 
